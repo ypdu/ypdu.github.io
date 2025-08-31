@@ -3,7 +3,6 @@ layout: single
 author_profile: false
 classes: wide
 title: "Yupei Du"
-seo_title: "Yupei Du"
 ---
 
 <style>
@@ -91,9 +90,9 @@ I believe this is a key to building safe and reliable AI systems.
 I recently finished my PhD at Utrecht University,
 advised by [Dr. Dong Nguyen](https://www.dongnguyen.nl/)
 and [Prof. Albert Gatt](https://albertgatt.github.io/).
-Before that, I received both my bachelor's (Psychology, 2017) and my master's (Computer Science,
-2020,
-advised by [Dr. Yuanbin Wu](https://ybwu.org/)) degrees from East China Normal University.
+Before that, I received my master's 
+(Computer Science, 2020, advised by [Dr. Yuanbin Wu](https://ybwu.org/)) 
+and bachelor's (Psychology, 2017) degrees both from East China Normal University.
 
 
 ## Experience
