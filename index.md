@@ -3,6 +3,7 @@ layout: single
 author_profile: false
 classes: wide
 title: "Yupei Du"
+seo_title: "Yupei Du"
 ---
 
 <style>
