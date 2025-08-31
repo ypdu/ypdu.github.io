@@ -91,8 +91,8 @@ I recently finished my PhD at Utrecht University,
 advised by [Dr. Dong Nguyen](https://www.dongnguyen.nl/)
 and [Prof. Albert Gatt](https://albertgatt.github.io/).
 Before that, I received my master's 
-(Computer Science, 2020, advised by [Dr. Yuanbin Wu](https://ybwu.org/)) 
-and bachelor's (Psychology, 2017) degrees both from East China Normal University.
+(Computer Science, advised by [Dr. Yuanbin Wu](https://ybwu.org/)) 
+and bachelor's (Psychology) degrees both from East China Normal University.
 
 
 ## Experience
