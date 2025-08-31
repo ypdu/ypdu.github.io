@@ -18,6 +18,7 @@
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
+    text-align: center;
 
     &:hover {
       opacity: 1;
@@ -80,6 +81,7 @@
     display: block;
     width: auto;
     height: auto;
+    text-align: center;
   }
 
   img {
@@ -105,6 +107,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    text-align: center;
   }
 }
 
@@ -147,6 +150,7 @@
 
   @include breakpoint($large) {
     display: block;
+    text-align: center;
   }
 
   button {
@@ -180,6 +184,7 @@
     border: 0;
     background: transparent;
     box-shadow: none;
+    text-align: center;
   }
 
   &:before {
@@ -218,6 +223,11 @@
 
   li {
     white-space: nowrap;
+    
+    @include breakpoint($large) {
+      display: inline-block;
+      margin: 0 5px;
+    }
   }
 
   a {
