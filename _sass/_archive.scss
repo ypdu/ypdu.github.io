@@ -243,3 +243,27 @@
     }
   }
 }
+
+/* Course-specific styling */
+.page__content .archive .archive__item {
+  &:has(.archive__item-title a[href*="/courses/"]) {
+    .archive__item-title {
+      font-size: $type-size-6;
+    }
+    
+    p {
+      font-size: $type-size-7;
+    }
+  }
+}
+
+/* Alternative fallback for browsers that don't support :has() */
+body.courses-page .archive .archive__item {
+  .archive__item-title {
+    font-size: $type-size-6;
+  }
+  
+  p {
+    font-size: $type-size-7;
+  }
+}

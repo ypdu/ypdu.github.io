@@ -14,7 +14,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 (* indicates equal contribution)
 
 - **_Reason to Rote: Rethinking Memorization in Reasoning._**
-  arXiv preprint 2025.
+  EMNLP 2025.
   [[pdf]](https://arxiv.org/pdf/2507.04782)
   
   _Yupei Du_, Philipp Mondorf, Silvia Casola, Yuekun Yao, Robert Litschko, and Barbara Plank.
@@ -30,7 +30,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   **TL;DR:** We introduce ExPLAIND—an interpretability framework for jointly attributing model components, data, and training dynamics and apply it to investigate Grokking.
 
 - **_Language models can learn implicit multi-hop reasoning, but only if they have lots of training data._**
-  arXiv preprint 2025.
+  EMNLP 2025.
   [[pdf]](https://www.arxiv.org/pdf/2505.17923)
   
   Yuekun Yao, _Yupei Du_, Dawei Zhu, Michael Hahn*, and Alexander Koller*.

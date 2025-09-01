@@ -3,13 +3,11 @@ layout: archive
 title: "Courses"
 permalink: /courses/
 author_profile: false
+classes: courses-page
 ---
 
-Here you'll find information about courses I teach or have been involved in teaching in UdS.
+Here you'll find information about courses I teach or have been involved in teaching.
 
-## Current Courses
-
-### Winter 2025
-
-- Seminar on *LLM safety* (Master, website coming soon)
-- Seminar on *planning and reasoning with agentic LLMs* (Master, website coming soon)
+{% for post in site.courses reversed %}
+  {% include archive-single.html %}
+{% endfor %}
