@@ -33,7 +33,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   EMNLP 2025.
   [[pdf]](https://www.arxiv.org/pdf/2505.17923)
   
-  Yuekun Yao, _Yupei Du_, Dawei Zhu, Michael Hahn*, and Alexander Koller*.
+  Yuekun Yao, _Yupei Du_, Dawei Zhu, Michael Hahn\*, and Alexander Koller\*.
   
   **TL;DR:** We studied the implicit multi-hop reasoning capabilities of language models, and find that they require an exponentially increasing amount of training data to perform well as the depth grows, and curriculum learning can substantially mitigate this.
 
@@ -49,7 +49,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   ACL 2025.
   [[pdf]](https://arxiv.org/pdf/2506.04047)
   
-  Yuqian Li*, <em>Yupei Du</em>*, Yufang Liu, Feifei Feng, Mou Xiao Feng, and Yuanbin Wu.
+  Yuqian Li\*, <em>Yupei Du</em>\*, Yufang Liu, Feifei Feng, Mou Xiao Feng, and Yuanbin Wu.
   
   **TL;DR:** We studied the training instances that support the predictions of language models, and reveal that supporting is likely an **intrinsic** property of data.
 
