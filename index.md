@@ -64,7 +64,7 @@ title: "Yupei Du"
     <img src="avatar.jpg" alt="Yupei Du">
     <div class="contact-info">
         <p>Postdoctoral researcher at Saarland University</p>
-        <p>Email: y [dot] du [at] uu [dot] nl</p>
+        <p>Email: yudo [at] lst [dot] uni-saarland [dot] de</p>
         <p>Address: C7-2-103, Campus, 66123 Saarbrücken, Germany</p>
         <p>
             <a href="https://scholar.google.com/citations?user=IgikFuEAAAAJ&hl=en-US">Google Scholar</a> |
