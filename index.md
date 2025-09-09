@@ -84,7 +84,7 @@ as a part of [Saarland Informatics Campus (SIC)](https://saarland-informatics-ca
 advised by [Prof. Alexander Koller](https://www.coli.uni-saarland.de/~koller/).
 I work on NLP and ML, 
 with a current focus on understanding and steering LLM reasoning, 
-particularly through interpretability (esp. attribution](https://attrib-workshop.cc/)). 
+particularly through interpretability (esp. [attribution](https://attrib-workshop.cc/)). 
 I believe this is a key to building safe and reliable AI systems.
 
 I recently finished my PhD at Utrecht University,
