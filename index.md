@@ -83,9 +83,8 @@ I am a postdoctoral researcher at Saarland University,
 as a part of [Saarland Informatics Campus (SIC)](https://saarland-informatics-campus.de/en/),
 advised by [Prof. Alexander Koller](https://www.coli.uni-saarland.de/~koller/).
 I work on NLP and ML, 
-with a current focus on understanding and steering LLM reasoning, 
-particularly through interpretability (esp. [attribution](https://attrib-workshop.cc/)). 
-I believe this is a key to building safe and reliable AI systems.
+with a current focus on understanding and improving LLM reasoning. 
+Please feel free to reach out to me for potential collaborations or just to say hi!
 
 I recently finished my PhD at Utrecht University,
 advised by [Dr. Dong Nguyen](https://www.dongnguyen.nl/)
