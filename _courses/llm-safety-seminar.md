@@ -82,25 +82,26 @@ Each session you will be graded based on your participation, including:
 
 
 ## Syllabus
-| #  | Date       | Topic                        | Reading | Leader |
-|----|------------|------------------------------|---------|--------|
-| 1  | 15-10-2025 | Introduction                 |         | Yupei  |
-| 2  | 22-10-2025 | PII extraction               |         | Yupei  |
-| -  | 29-10-2025 | No class                     |         |        |
-| -  | 05-11-2025 | No class                     |         |        |
-| 3  | 12-11-2025 | Machine unlearning           |         |        |
-| 4  | 19-11-2025 | Mechanistic interpretability |         |        |
-| 5  | 26-11-2025 | Data attribution             |         |        |
-| 6  | 03-12-2025 | Watermarking                 |         |        |
-| 7  | 10-12-2025 | Alignment training           |         |        |
-| 8  | 17-12-2025 | Shallow vs. deep alignment   |         |        |
-| -  | 24-12-2025 | No class (holiday)           |         |        |
-| -  | 31-12-2025 | No class (holiday)           |         |        |
-| 9  | 07-01-2026 | Reward hacking               |         |        |
-| 10 | 14-01-2026 | Prompt injection             |         |        |
-| 11 | 21-01-2026 | Emergent misalignment        |         |        |
-| 12 | 28-01-2026 | Benchmarks                   |         |        |
-| 13 | 04-02-2026 | Red teaming                  |         |        |
+
+| # | Date       | Topic                          | Reading        | Leader    |
+|---|------------|--------------------------------|----------------|-----------|
+| 1 | 15-10-2025 | Introduction                   |                | Yupei     |
+| 2 | 22-10-2025 | PII extraction                 |                | Yupei     |
+| - | 29-10-2025 | No class                       |                |           |
+| - | 05-11-2025 | No class                       |                |           |
+| 3 | 12-11-2025 | Machine unlearning             |                |           |
+| 4 | 19-11-2025 | Mechanistic interpretability   |                |           |
+| 5 | 26-11-2025 | Data attribution               |                |           |
+| 6 | 03-12-2025 | Watermarking                   |                |           |
+| 7 | 10-12-2025 | Alignment training             |                |           |
+| 8 | 17-12-2025 | Shallow vs. deep alignment     |                |           |
+| - | 24-12-2025 | No class                       |                |           |
+| - | 31-12-2025 | No class                       |                |           |
+| 9 | 07-01-2026 | Reward hacking                 |                |           |
+|10 | 14-01-2026 | Prompt injection               |                |           |
+|11 | 21-01-2026 | Emergent misalignment          |                |           |
+|12 | 28-01-2026 | Benchmarks                     |                |           |
+|13 | 04-02-2026 | Red-teaming                    |                |           |
 
 ## Suggested Readings
 
