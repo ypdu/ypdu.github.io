@@ -80,7 +80,6 @@ title: "Yupei Du"
 ## Short Bio
 
 I am a postdoctoral researcher at Saarland University, 
-as a part of [Saarland Informatics Campus (SIC)](https://saarland-informatics-campus.de/en/),
 advised by [Prof. Alexander Koller](https://www.coli.uni-saarland.de/~koller/).
 I work on NLP and ML, 
 with a current focus on understanding and improving LLM reasoning. 
