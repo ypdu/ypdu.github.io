@@ -232,7 +232,7 @@ I personally recommend using [Typst](https://typst.app/) or LaTeX for writing.
 
 ### Submission deadline
 Due: March end, 2026. Send me an email with the PDF attached, 
-with the subject line "Reasoning seminar term paper submission: [Your Name]".
+with the subject line "Safety seminar term paper submission: [Your Name]".
 
 ### LLM use policy
 
