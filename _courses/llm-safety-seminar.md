@@ -12,8 +12,6 @@ location: "Saarbrücken, Germany"
 
 ## Course Description
 
-[New]: [Link for showing interest](https://forms.gle/jB8hU7AeaLRDqkpn7)
-
 Large language models (LLMs) are developing increasingly sophisticated reasoning abilities. 
 More critically, they are becoming agentic—capable of autonomous decision-making and action-taking. 
 This shift means humans are no longer the sole agents shaping outcomes in complex environments.
@@ -38,6 +36,7 @@ chain-of-thought reasoning, and reinforcement learning.
 
 ## Information
 
+- **registeration form**: https://forms.gle/jB8hU7AeaLRDqkpn7
 - **Instructor:** [Yupei Du](https://yupei.nl/) (yudo [at] lst [dot] uni-saarland [dot] de)
 - **Time/Location:** Wed 14:15 - 15:45; Building C7.3, Room 1.14
 
