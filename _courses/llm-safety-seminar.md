@@ -36,7 +36,7 @@ chain-of-thought reasoning, and reinforcement learning.
 
 ## Information
 
-- **registeration form**: https://forms.gle/jB8hU7AeaLRDqkpn7
+- **registeration form**: [Google form](https://forms.gle/jB8hU7AeaLRDqkpn7)
 - **Instructor:** [Yupei Du](https://yupei.nl/) (yudo [at] lst [dot] uni-saarland [dot] de)
 - **Time/Location:** Wed 14:15 - 15:45; Building C7.3, Room 1.14
 
