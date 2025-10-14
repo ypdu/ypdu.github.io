@@ -12,6 +12,8 @@ location: "Saarbrücken, Germany"
 
 ## Course Description
 
+[New]: [Link for showing interest](https://forms.gle/jB8hU7AeaLRDqkpn7)
+
 Large language models (LLMs) are developing increasingly sophisticated reasoning abilities. 
 More critically, they are becoming agentic—capable of autonomous decision-making and action-taking. 
 This shift means humans are no longer the sole agents shaping outcomes in complex environments.

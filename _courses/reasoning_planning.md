@@ -12,6 +12,8 @@ location: "Saarbrücken, Germany"
 
 ## Course Description
 
+[New]: [link for showing interest](https://forms.gle/jB8hU7AeaLRDqkpn7)
+
 Recent breakthroughs in reasoning and planning have further extended the capabilities of LLMs, 
 enabling frontier models like GPT-5 to solve complex mathematical problems, 
 and plan multi-step solutions to real-world software engineering tasks. 
