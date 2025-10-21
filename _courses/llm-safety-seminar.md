@@ -36,7 +36,7 @@ chain-of-thought reasoning, and reinforcement learning.
 
 ## Information
 
-- **registration form**: [Google form](https://forms.gle/jB8hU7AeaLRDqkpn7)
+<!-- - **registration form**: [Google form](https://forms.gle/jB8hU7AeaLRDqkpn7) -->
 - **Instructor:** [Yupei Du](https://yupei.nl/) (yudo [at] lst [dot] uni-saarland [dot] de)
 - **Time/Location:** Wed 14:15 - 15:45; Building C7.3, Room 1.14
 
@@ -84,25 +84,26 @@ Each session you will be graded based on your participation, including:
 
 ## Syllabus
 
-| # | Date       | Topic                          | Reading        | Leader    |
-|---|------------|--------------------------------|----------------|-----------|
-| 1 | 15-10-2025 | Introduction                   |                | Yupei     |
-| 2 | 22-10-2025 | PII extraction                 |                | Yupei     |
-| - | 29-10-2025 | No class                       |                |           |
-| - | 05-11-2025 | No class                       |                |           |
-| 3 | 12-11-2025 | Machine unlearning             |                |           |
-| 4 | 19-11-2025 | Mechanistic interpretability   |                |           |
-| 5 | 26-11-2025 | Data attribution               |                |           |
-| 6 | 03-12-2025 | Watermarking                   |                |           |
-| 7 | 10-12-2025 | Alignment training             |                |           |
-| 8 | 17-12-2025 | Shallow vs. deep alignment     |                |           |
-| - | 24-12-2025 | No class                       |                |           |
-| - | 31-12-2025 | No class                       |                |           |
-| 9 | 07-01-2026 | Reward hacking                 |                |           |
-|10 | 14-01-2026 | Prompt injection               |                |           |
-|11 | 21-01-2026 | Emergent misalignment          |                |           |
-|12 | 28-01-2026 | Benchmarks                     |                |           |
-|13 | 04-02-2026 | Red-teaming                    |                |           |
+| #  | Date       | Topic                        | Reading | Leader                                    |
+| -- | ---------- | ---------------------------- | ------- | ----------------------------------------- |
+| 1  | 15-10-2025 | Introduction                 |         | Yupei                                     |
+| 2  | 22-10-2025 | PII extraction               |         | Yupei                                     |
+| -  | 29-10-2025 | No class                     |         |                                           |
+| -  | 05-11-2025 | No class                     |         |                                           |
+| 3  | 12-11-2025 | Machine unlearning           |         | Cora Haiber, Betül Bahceci                |
+| 4  | 19-11-2025 | Mechanistic interpretability |         | Katharina Trinley                         |
+| 5  | 26-11-2025 | Data attribution             |         | Fabian Stiewitz                           |
+| 6  | 03-12-2025 | Watermarking                 |         | Lotta Sophia Biedermann, Diego Torre Damm |
+| 7  | 10-12-2025 | Alignment training           |         | Saugata Purkayastha                       |
+| 8  | 17-12-2025 | Shallow vs. deep alignment   |         | Alena Tsanda, Barbare Tepnadze            |
+| -  | 24-12-2025 | No class                     |         |                                           |
+| -  | 31-12-2025 | No class                     |         |                                           |
+| 9  | 07-01-2026 | Reward hacking               |         | Franka Beyer                              |
+| 10 | 14-01-2026 | Prompt injection             |         | Houda Kaoukab, Zumrud Hasanova            |
+| 11 | 21-01-2026 | Emergent misalignment        |         | Anthony Dsouza                            |
+| 12 | 28-01-2026 | Benchmarks                   |         | Wojciech Stempniak                        |
+| 13 | 04-02-2026 | Red-teaming                  |         | Harsha Rangadhamaiah                      |
+
 
 ## Suggested Readings
 
