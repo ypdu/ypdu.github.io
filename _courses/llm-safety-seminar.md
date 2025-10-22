@@ -93,8 +93,8 @@ Each session you will be graded based on your participation, including:
 | 3  | 12-11-2025 | Machine unlearning           |         | Cora Haiber, Betül Bahceci                |
 | 4  | 19-11-2025 | Mechanistic interpretability |         | Katharina Trinley                         |
 | 5  | 26-11-2025 | Data attribution             |         | Fabian Stiewitz                           |
-| 6  | 03-12-2025 | Watermarking                 |         | Lotta Sophia Biedermann, Diego Torre Damm |
-| 7  | 10-12-2025 | Alignment training           |         | Saugata Purkayastha, Antonia Wächter                       |
+| 6  | 03-12-2025 | Watermarking                 |         | Lotta Sophia Biedermann                   |
+| 7  | 10-12-2025 | Alignment training           |         | Saugata Purkayastha, Antonia Wächter      |
 | 8  | 17-12-2025 | Shallow vs. deep alignment   |         | Alena Tsanda, Barbare Tepnadze            |
 | -  | 24-12-2025 | No class                     |         |                                           |
 | -  | 31-12-2025 | No class                     |         |                                           |
