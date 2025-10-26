@@ -82,24 +82,25 @@ Each session you will be graded based on your participation, including:
 
 ## Syllabus
 
-| # | Date        | Topic                 | Reading        | Leader          |
-|---|-------------|-----------------------|----------------|-----------------|
-| 1 | 21-10-2025  | Introduction          |                | Yupei           |
-| 2 | 28-10-2025  | Prompting 1           |                | Yupei (online)  |
-| - | 04-11-2025  | No Class              |                |                 |
-| 3 | 11-11-2025  | Prompting 2           |                |                 |
-| 4 | 18-11-2025  | Learning to reason 1  |                |                 |
-| 5 | 25-11-2025  | Learning to reason 2  |                |                 |
-| 6 | 02-12-2025  | Long-context 1        |                |                 |
-| 7 | 09-12-2025  | Long-context 2        |                |                 |
-| 8 | 16-12-2025  | Planning              |                |                 |
-| - | 23-12-2025  | No class              |                |                 |
-| - | 30-12-2025  | No class              |                |                 |
-| 9 | 06-01-2026  | Agents: foundation 1  |                |                 |
-|10 | 13-01-2026  | Agents: foundation 2  |                |                 |
-|11 | 20-01-2026  | Agents: planning      |                |                 |
-|12 | 27-01-2026  | Agents: memory        |                |                 |
-|13 | 03-02-2026  | Agents: benchmarks    |                |                 |
+| Session | Date       | Topic                | Reading | Leader                 |
+| ------- | ---------- | -------------------- | ------- | ---------------------- |
+|       1 | 21-10-2025 | Introduction         |         | Yupei                  |
+|       2 | 28-10-2025 | No class             |         |                        |
+|       3 | 04-11-2025 | No class             |         |                        |
+|       4 | 11-11-2025 | Prompting            |         | Dhairushi Patel        |
+|       5 | 18-11-2025 | Learning to reason 1 |         | Anthony Dsouza         |
+|       6 | 25-11-2025 | Learning to reason 2 |         | Yonghua Huang          |
+|       7 | 02-12-2025 | Long-context 1       |         | Quanzi Ma              |
+|       8 | 09-12-2025 | Long-context 2       |         | Shane John Paul Newton |
+|       9 | 16-12-2025 | Planning             |         | Fanyi Meng             |
+|      10 | 23-12-2025 | No class             |         |                        |
+|      11 | 30-12-2025 | No class             |         |                        |
+|      12 | 06-01-2026 | Agents: foundation 1 |         | Ghazal Tajik           |
+|      13 | 13-01-2026 | Agents: foundation 2 |         | Hongxu Zhou            |
+|      14 | 20-01-2026 | Agents: planning     |         | Sree Harsha Sunaye     |
+|      15 | 27-01-2026 | Agents: memory       |         | Pranav Kushare         |
+|      16 | 03-02-2026 | Agents: benchmarks   |         | Diego Torre Damm       |
+
 
 
 ## Suggested Readings
