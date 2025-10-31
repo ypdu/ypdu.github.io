@@ -90,19 +90,19 @@ Each session you will be graded based on your participation, including:
 | 2  | 22-10-2025 | PII extraction               |         | Yupei                                     |
 | -  | 29-10-2025 | No class                     |         |                                           |
 | -  | 05-11-2025 | No class                     |         |                                           |
-| 3  | 12-11-2025 | Machine unlearning           |         | Cora Haiber, Betül Bahceci                |
+| 3  | 12-11-2025 | Machine unlearning           |         | Betül Bahceci                             |
 | 4  | 19-11-2025 | Mechanistic interpretability |         | Katharina Trinley                         |
 | 5  | 26-11-2025 | Data attribution             |         | Fabian Stiewitz                           |
-| 6  | 03-12-2025 | Watermarking                 |         | Lotta Sophia Biedermann                   |
-| 7  | 10-12-2025 | Alignment training           |         | Saugata Purkayastha, Antonia Wächter      |
-| 8  | 17-12-2025 | Shallow vs. deep alignment   |         | Alena Tsanda, Barbare Tepnadze            |
+| 6  | 03-12-2025 | Watermarking                 |         | Cora Haiber, Lotta Sophia Biedermann      |
+| 7  | 10-12-2025 | Alignment training           |         | Antonia Wächter                           |
+| 8  | 17-12-2025 | Shallow vs. deep alignment   |         | Alena Tsanda                              |
 | -  | 24-12-2025 | No class                     |         |                                           |
 | -  | 31-12-2025 | No class                     |         |                                           |
-| 9  | 07-01-2026 | Reward hacking               |         | Franka Beyer                              |
-| 10 | 14-01-2026 | Prompt injection             |         | Houda Kaoukab, Zumrud Hasanova            |
-| 11 | 21-01-2026 | Emergent misalignment        |         | Anthony Dsouza                            |
-| 12 | 28-01-2026 | Benchmarks                   |         | Wojciech Stempniak                        |
-| 13 | 04-02-2026 | Red-teaming                  |         | Harsha Rangadhamaiah                      |
+| 9  | 07-01-2026 | Reward hacking               |         | Barbare Tepnadz                           |
+| 10 | 14-01-2026 | Prompt injection             |         | Zumrud Hasanova                           |
+| 11 | 21-01-2026 | Emergent misalignment        |         | Alexander Wehner                          |
+| 12 | 28-01-2026 | Benchmarks                   |         | Houda Kaoukab                             |
+| 13 | 04-02-2026 | Red-teaming                  |         | Saugata Purkayastha                       |
 
 
 ## Suggested Readings
