@@ -87,8 +87,8 @@ Each session you will be graded based on your participation, including:
 |       1 | 21-10-2025 | Introduction         |         | Yupei                  |
 |       2 | 28-10-2025 | No class             |         |                        |
 |       3 | 04-11-2025 | No class             |         |                        |
-|       4 | 11-11-2025 | Prompting            |         | Dhairushi Patel        |
-|       5 | 18-11-2025 | Learning to reason 1 |         | Anthony Dsouza         |
+|       4 | 11-11-2025 | Prompting            | [[ICML24] Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939) | Dhairushi Patel |
+|       5 | 18-11-2025 | Learning to reason 1 | [[NeurIPS22] STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465) | Anthony Dsouza |
 |       6 | 25-11-2025 | Learning to reason 2 |         | Yonghua Huang          |
 |       7 | 02-12-2025 | Long-context 1       |         | Quanzi Ma              |
 |       8 | 09-12-2025 | Long-context 2       |         | Shane John Paul Newton |

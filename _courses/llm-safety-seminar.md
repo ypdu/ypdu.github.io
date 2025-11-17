@@ -90,8 +90,8 @@ Each session you will be graded based on your participation, including:
 | 2  | 22-10-2025 | PII extraction               |         | Yupei                                     |
 | -  | 29-10-2025 | No class                     |         |                                           |
 | -  | 05-11-2025 | No class                     |         |                                           |
-| 3  | 12-11-2025 | Machine unlearning           |         | Betül Bahceci                             |
-| 4  | 19-11-2025 | Mechanistic interpretability |         | Katharina Trinley                         |
+| 3  | 12-11-2025 | Machine unlearning           | [[IEEE S&P21]Machine Unlearning](https://arxiv.org/abs/1912.03817) | Betül Bahceci                             |
+| 4  | 19-11-2025 | Mechanistic interpretability | [[NeurIPS20] Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias](https://arxiv.org/abs/2004.12265) | Katharina Trinley                         |
 | 5  | 26-11-2025 | Data attribution             |         | Fabian Stiewitz                           |
 | 6  | 03-12-2025 | Watermarking                 |         | Cora Haiber, Lotta Sophia Biedermann      |
 | 7  | 10-12-2025 | Alignment training           |         | Antonia Wächter                           |
