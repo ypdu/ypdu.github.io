@@ -81,12 +81,13 @@ title: "Yupei Du"
 
 I am a postdoctoral researcher at Saarland University, 
 advised by [Prof. Alexander Koller](https://www.coli.uni-saarland.de/~koller/).
-I work on NLP and ML, 
-with a current focus on understanding and improving LLM reasoning. 
+I work on NLP and ML, with a current focus on LLM reasoning. 
+I am broadly interested in how current language models learn to reason, 
+where they fall short, and how we can improve them.
 Please feel free to reach out to me for potential collaborations or just to say hi!
 
-I recently finished my PhD at Utrecht University,
-advised by [Dr. Dong Nguyen](https://www.dongnguyen.nl/)
+I recently finished my PhD studies at Utrecht University,
+where I was advised by [Dr. Dong Nguyen](https://www.dongnguyen.nl/)
 and [Prof. Albert Gatt](https://albertgatt.github.io/).
 Before that, I received my master's 
 (Computer Science, advised by [Dr. Yuanbin Wu](https://ybwu.org/)) 
@@ -105,6 +106,11 @@ and bachelor's (Psychology) degrees both from East China Normal University.
 - Research Intern at Sogou Inc., Hangzhou, China. Jul. 2019 – Jan. 2020.\\
   Mentored by [Yunlun Yang](https://aclanthology.org/people/yunlun-yang/) 
   and [Prof. Qi Zhang](http://qizhang.info/).
+
+## Recent Invited Talks
+
+- Peking University \& University of Vienna: [Understanding Transformer reasoning by design](https://drive.google.com/file/d/1T8qEfLyJ9iY8Wiz_guwWSLxbXtxHXr3S/view?usp=sharing)
+- Saarland University \& University of Groningen: Data-centric attribution of language models
 
 ## Services
 
