@@ -109,8 +109,8 @@ and bachelor's (Psychology) degrees both from East China Normal University.
 
 ## Recent Invited Talks
 
-- Peking University \& University of Vienna: [Understanding Transformer reasoning by design](https://drive.google.com/file/d/1T8qEfLyJ9iY8Wiz_guwWSLxbXtxHXr3S/view?usp=sharing)
-- Saarland University \& University of Groningen: Data-centric attribution of language models
+- Peking University & University of Vienna: [Understanding Transformer reasoning by design](https://drive.google.com/file/d/1T8qEfLyJ9iY8Wiz_guwWSLxbXtxHXr3S/view?usp=sharing)
+- Saarland University & University of Groningen: Data-centric attribution of language models
 
 ## Services
 
