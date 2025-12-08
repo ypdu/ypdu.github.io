@@ -89,9 +89,9 @@ Each session you will be graded based on your participation, including:
 |       3 | 04-11-2025 | No class             |         |                        |
 |       4 | 11-11-2025 | Prompting            | [[ICML24] Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939) | Dhairushi Patel |
 |       5 | 18-11-2025 | Learning to reason 1 | [[NeurIPS22] STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465) | Anthony Dsouza |
-|       6 | 25-11-2025 | Learning to reason 2 |         | Yonghua Huang          |
-|       7 | 02-12-2025 | Long-context 1       |         | Quanzi Ma              |
-|       8 | 09-12-2025 | Long-context 2       |         | Shane John Paul Newton |
+|       6 | 25-11-2025 | Learning to reason 2 |   [[Arxiv25] LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/abs/2502.07374)      | Yonghua Huang          |
+|       7 | 02-12-2025 | Long-context 1       | [[NeurIPS23] The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/abs/2305.19466) | Quanzi Ma              |
+|       8 | 09-12-2025 | Long-context 2       |   -     | Shane John Paul Newton |
 |       9 | 16-12-2025 | Planning             |         | Fanyi Meng             |
 |      10 | 23-12-2025 | No class             |         |                        |
 |      11 | 30-12-2025 | No class             |         |                        |

@@ -92,10 +92,9 @@ Each session you will be graded based on your participation, including:
 | -  | 05-11-2025 | No class                     |         |                                           |
 | 3  | 12-11-2025 | Machine unlearning           | [[IEEE S&P21]Machine Unlearning](https://arxiv.org/abs/1912.03817) | Betül Bahceci                             |
 | 4  | 19-11-2025 | Mechanistic interpretability | [[NeurIPS20] Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias](https://arxiv.org/abs/2004.12265) | Katharina Trinley                         |
-| 5  | 26-11-2025 | Data attribution             |  [[ICML17] Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
-]       | Fabian Stiewitz                           |
-| 6  | 03-12-2025 | Watermarking                 |         | Cora Haiber, Lotta Sophia Biedermann      |
-| 7  | 10-12-2025 | Alignment training           |         | Antonia Wächter                           |
+| 5  | 26-11-2025 | Data attribution             |  [[ICML17] Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730) | Fabian Stiewitz                           |
+| 6  | 03-12-2025 | Watermarking                 | [[ICML23] A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)<br>[[Nature24] Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4) | Cora Haiber, Lotta Sophia Biedermann      |
+| 7  | 10-12-2025 | Alignment training           | [[NeurIP22] Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | Antonia Wächter                           |
 | 8  | 17-12-2025 | Shallow vs. deep alignment   |         | Alena Tsanda                              |
 | -  | 24-12-2025 | No class                     |         |                                           |
 | -  | 31-12-2025 | No class                     |         |                                           |
