@@ -95,7 +95,7 @@ Each session you will be graded based on your participation, including:
 | 5  | 26-11-2025 | Data attribution             |  [[ICML17] Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730) | Fabian Stiewitz                           |
 | 6  | 03-12-2025 | Watermarking                 | [[ICML23] A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)<br>[[Nature24] Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4) | Cora Haiber, Lotta Sophia Biedermann      |
 | 7  | 10-12-2025 | Alignment training           | [[NeurIP22] Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | Antonia Wächter                           |
-| 8  | 17-12-2025 | Shallow vs. deep alignment   |         | Alena Tsanda                              |
+| 8  | 17-12-2025 | Shallow vs. deep alignment   |  [[ICLR24] Fine-tuning aligned language models compromises safety, even when users do not intend to!](https://arxiv.org/abs/2310.03693)       | Alena Tsanda                              |
 | -  | 24-12-2025 | No class                     |         |                                           |
 | -  | 31-12-2025 | No class                     |         |                                           |
 | 9  | 07-01-2026 | Reward hacking               |         | Barbare Tepnadz                           |

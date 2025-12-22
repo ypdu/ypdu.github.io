@@ -92,7 +92,7 @@ Each session you will be graded based on your participation, including:
 |       6 | 25-11-2025 | Learning to reason 2 |   [[Arxiv25] LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/abs/2502.07374)      | Yonghua Huang          |
 |       7 | 02-12-2025 | Long-context 1       | [[NeurIPS23] The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/abs/2305.19466) | Quanzi Ma              |
 |       8 | 09-12-2025 | Long-context 2       |   -     | Shane John Paul Newton |
-|       9 | 16-12-2025 | Planning             |         | Fanyi Meng             |
+|       9 | 16-12-2025 | Planning             |   [[AAAI24] Generalized planning in PDDL domains with pretrained large language models](https://arxiv.org/abs/2305.11014) | Fanyi Meng             |
 |      10 | 23-12-2025 | No class             |         |                        |
 |      11 | 30-12-2025 | No class             |         |                        |
 |      12 | 06-01-2026 | Agents: foundation 1 |         | Ghazal Tajik           |

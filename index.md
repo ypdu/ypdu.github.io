@@ -81,17 +81,18 @@ title: "Yupei Du"
 
 I am a postdoctoral researcher at Saarland University, 
 advised by [Prof. Alexander Koller](https://www.coli.uni-saarland.de/~koller/).
-I work on NLP and ML, with a current focus on LLM reasoning. 
-I am broadly interested in how current language models learn to reason, 
-where they fall short, and how we can improve them.
+I work on LLM reasoning, and am broadly interested in 
+how language models learn to reason, their limitations, 
+and how these limitations can be addressed.
 Please feel free to reach out to me for potential collaborations or just to say hi!
 
-I recently finished my PhD studies at Utrecht University,
-where I was advised by [Dr. Dong Nguyen](https://www.dongnguyen.nl/)
-and [Prof. Albert Gatt](https://albertgatt.github.io/).
-Before that, I received my master's 
-(Computer Science, advised by [Dr. Yuanbin Wu](https://ybwu.org/)) 
-and bachelor's (Psychology) degrees both from East China Normal University.
+I recently completed my PhD studies at Utrecht University,
+where I was primarily advised by [Dr. Dong Nguyen](https://www.dongnguyen.nl/).
+During my PhD, I also spent time at LMU Munich and Amazon.
+Before that, I studied computer science and cognitive science 
+at East China Normal University, 
+where I was advised by [Dr. Yuanbin Wu](https://ybwu.org/). 
+
 
 
 ## Experience
