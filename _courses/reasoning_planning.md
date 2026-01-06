@@ -82,7 +82,7 @@ Each session you will be graded based on your participation, including:
 
 ## Syllabus
 
-| Session | Date       | Topic                | Reading | Leader                 |
+**| Session | Date       | Topic                | Reading | Leader                 |
 | ------- | ---------- | -------------------- | ------- | ---------------------- |
 |       1 | 21-10-2025 | Introduction         |         | Yupei                  |
 |       2 | 28-10-2025 | No class             |         |                        |
@@ -96,10 +96,10 @@ Each session you will be graded based on your participation, including:
 |      10 | 23-12-2025 | No class             |         |                        |
 |      11 | 30-12-2025 | No class             |         |                        |
 |      12 | 06-01-2026 | Agents: foundation 1 | [[ICLR23] ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | Hongxu Zhou            |
-|      13 | 13-01-2026 | Agents: foundation 2 |         | Ghazal Tajik           |
-|      14 | 20-01-2026 | Agents: planning     |         | Sree Harsha Sunaye     |
-|      15 | 27-01-2026 | Agents: memory       |         | Pranav Kushare         |
-|      16 | 03-02-2026 | Agents: benchmarks   |         | Diego Torre Damm       |
+|      13 | 13-01-2026 | Agents: planning     | [[ICLR24] PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization](https://arxiv.org/abs/2310.16427) | Sree Harsha Sunaye     |
+|      14 | 20-01-2026 | Agents: foundation 2 |         | Pranav Kushare         |
+|      15 | 27-01-2026 | Agents: memory       |         | Ghazal Tajik           |
+|      16 | 03-02-2026 | Agents: benchmarks   |         | Diego Torre Damm       |**
 
 
 
