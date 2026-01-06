@@ -95,8 +95,8 @@ Each session you will be graded based on your participation, including:
 |       9 | 16-12-2025 | Planning             |   [[AAAI24] Generalized planning in PDDL domains with pretrained large language models](https://arxiv.org/abs/2305.11014) | Fanyi Meng             |
 |      10 | 23-12-2025 | No class             |         |                        |
 |      11 | 30-12-2025 | No class             |         |                        |
-|      12 | 06-01-2026 | Agents: foundation 1 |         | Ghazal Tajik           |
-|      13 | 13-01-2026 | Agents: foundation 2 |         | Hongxu Zhou            |
+|      12 | 06-01-2026 | Agents: foundation 1 | [[ICLR23] ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | Hongxu Zhou            |
+|      13 | 13-01-2026 | Agents: foundation 2 |         | Ghazal Tajik           |
 |      14 | 20-01-2026 | Agents: planning     |         | Sree Harsha Sunaye     |
 |      15 | 27-01-2026 | Agents: memory       |         | Pranav Kushare         |
 |      16 | 03-02-2026 | Agents: benchmarks   |         | Diego Torre Damm       |
