@@ -99,7 +99,7 @@ Each session you will be graded based on your participation, including:
 | -  | 24-12-2025 | No class                     |         |                                           |
 | -  | 31-12-2025 | No class                     |         |                                           |
 | 9  | 07-01-2026 | Reward hacking               |         | Barbare Tepnadz                           |
-| 10 | 14-01-2026 | Prompt injection             |         | Zumrud Hasanova                           |
+| 10 | 14-01-2026 | Prompt injection             | [[AISec23] Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173) | Zumrud Hasanova                           |
 | 11 | 21-01-2026 | Emergent misalignment        |         | Alexander Wehner                          |
 | 12 | 28-01-2026 | Benchmarks                   |         | Houda Kaoukab                             |
 | 13 | 04-02-2026 | Red-teaming                  |         | Saugata Purkayastha                       |
