@@ -101,8 +101,8 @@ Each session you will be graded based on your participation, including:
 | 9  | 07-01-2026 | Reward hacking               | [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/abs/2210.10760) | Barbare Tepnadz                           |
 | 10 | 14-01-2026 | Prompt injection             | [[AISec23] Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173) | Zumrud Hasanova                           |
 | 11 | 21-01-2026 | Emergent misalignment        | [Persona Features Control Emergent Misalignment](https://arxiv.org/abs/2506.19823) | Alexander Wehner                          |
-| 12 | 28-01-2026 | Benchmarks                   |         | Houda Kaoukab                             |
-| 13 | 04-02-2026 | Red-teaming                  |         | Saugata Purkayastha                       |
+| 12 | 28-01-2026 | Benchmarks                   | [[ACL22] ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509) | Hyun Gu Kang                             |
+| 13 | 04-02-2026 | Red-teaming                  | [[EMNLP22] Red Teaming Language Models with Language Models](https://arxiv.org/abs/2202.03286) | Saugata Purkayastha                       |
 
 
 ## Suggested Readings
