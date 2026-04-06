@@ -104,12 +104,12 @@ Each session you will be graded based on your participation, including:
 
 ### 2. Continuous Diffusion Foundations
 
-- DDPM: Denoising Diffusion Probabilistic Models 
+- Denoising Diffusion Probabilistic Models 
 - Score-Based Generative Modeling through SDEs 
 
 ### 3. Discrete Diffusion Theory
 
-- D3PM: Structured Denoising Diffusion Models in Discrete State-Spaces 
+- Structured Denoising Diffusion Models in Discrete State-Spaces 
 - A Continuous Time Framework for Discrete Denoising Models 
 
 ### 4. Early Diffusion Language Models
@@ -150,7 +150,7 @@ Each session you will be graded based on your participation, including:
 ### 11. Diffusion for Reasoning and Planning
 
 - Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning 
-- Diffusion of Thoughts (DoT): Chain-of-Thought in DLMs 
+- Diffusion of Thoughts: Chain-of-Thought in DLMs 
 
 ### 12. Analysis of Masked Diffusion
 

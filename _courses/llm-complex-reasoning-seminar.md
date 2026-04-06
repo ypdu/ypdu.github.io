@@ -104,7 +104,7 @@ The topics below are listed in sequence rather than tied to fixed weeks.
 
 ### 1. Continuous / Latent Chain-of-Thought
 
-- Training Large Language Models to Reason in a Continuous Latent Space (COCONUT)
+- Training Large Language Models to Reason in a Continuous Latent Space 
 - Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space
 
 ### 2. Looped Transformers as a Reasoning Bias
@@ -127,10 +127,11 @@ The topics below are listed in sequence rather than tied to fixed weeks.
 - Parallelizing Linear Transformers with the Delta Rule over Sequence Length
 - Gated Delta Networks: Improving Mamba2 with Delta Rule
 
-### 6. New Architectures: SSMs and Mamba
+### 6. Mamba
 
-- Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+- Linear-Time Sequence Modeling with Selective State Spaces
 - Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
+- Improved Sequence Modeling using State Space Principles
 
 ### 7. Associative Memory Perspectives on Transformers
 
@@ -147,10 +148,10 @@ The topics below are listed in sequence rather than tied to fixed weeks.
 - Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 - End-to-End Test-Time Training for Long Context
 
-### 10. Long-Context Reasoning
+### 10. Multi-Token Prediction
 
-- How to Train Long-Context Language Models (Effectively)
-- LM-Infinite: Zero-Shot Extreme Length Generalization for Large Language Models
+- Better & Faster Large Language Models via Multi-token Prediction
+- Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries
 
 ### 11. Context Learning
 
