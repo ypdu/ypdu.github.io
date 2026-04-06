@@ -1,9 +1,9 @@
 ---
-title: "LLM safety (UdS, Winter 2025)"
+title: "LLM safety (UdS, Winter 25-26)"
 collection: courses
 type: "Seminar"
-permalink: /courses/llm-safety-seminar-2025/
-semester: "Winter 2025"
+permalink: /courses/llm-safety-seminar-winter-25-26/
+semester: "Winter 25-26"
 level: "Master"
 venue: "Saarland University"
 date: 2025-10-01

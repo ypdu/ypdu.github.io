@@ -1,9 +1,9 @@
 ---
-title: "Towards agentic LLMs that reason and plan (UdS, Winter 2025)"
+title: "Towards agentic LLMs that reason and plan (UdS, Winter 25-26)"
 collection: courses
 type: "Seminar"
-permalink: /courses/reasoning-planning-seminar-2025/
-semester: "Winter 2025"
+permalink: /courses/reasoning-planning-seminar-winter-25-26/
+semester: "Winter 25-26"
 level: "Master"
 venue: "Saarland University"
 date: 2025-10-14
