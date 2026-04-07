@@ -11,7 +11,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Selected Publications
 
-(♩ led the theoretical parts; ♫ co-led the empirical parts)
+(♩ led the theoretical parts, ♫ co-led the empirical parts; * indicates equal contribution)
 
 - **_On the Ability of Transformers to Verify Plans._**
   ArXiv preprint 2026.
