@@ -113,7 +113,7 @@ Each session you will be graded based on your participation, including:
 ### 3. Building a recurrent-depth model
 
 - Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach
-- LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation
+- Universal YOCO for Efficient Depth Scaling
 
 ### 4. Diffusion language models
 
