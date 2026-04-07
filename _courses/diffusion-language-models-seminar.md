@@ -97,62 +97,62 @@ Each session you will be graded based on your participation, including:
 
 ## Suggested Readings
 
-### 1. Limitations of Autoregressive Language Models
+### 1. Why autoregressive language models are not enough
 
 - The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"
 - The Curious Case of Neural Text Degeneration 
 
-### 2. Continuous Diffusion Foundations
+### 2. Continuous diffusion foundations
 
 - Denoising Diffusion Probabilistic Models 
 - Score-Based Generative Modeling through SDEs 
 
-### 3. Discrete Diffusion Theory
+### 3. Discrete diffusion 
 
 - Structured Denoising Diffusion Models in Discrete State-Spaces 
 - A Continuous Time Framework for Discrete Denoising Models 
 
-### 4. Early Diffusion Language Models
+### 4. Explorative diffusion language models
 
 - Diffusion-LM Improves Controllable Text Generation 
 - SSD-LM: Semi-autoregressive Simplex-based Diffusion LM 
 
-### 5. Masked Diffusion LMs
+### 5. Masked diffusion language models
 
 - Simple and Effective Masked Diffusion Language Models 
 - Scaling up Masked Diffusion Models on Text 
 
-### 6. Flexible Training Objectives
+### 6. More flexible training objectives
 
 - Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution 
 - A Reparameterized Discrete Diffusion Model for Text Generation 
 
-### 7. Rethinking and Evaluating Masked Diffusion
+### 7. Rethinking masked diffusion
 
 - Masked Diffusion Models are Secretly Time-Agnostic 
 - Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data 
 
-### 8. Data Scale and Diffusion Learning
+### 8. Scaling diffusion language models
 
 - Diffusion Language Models are Super Data Learners 
 - Scaling Behavior of Discrete Diffusion Language Models 
 
-### 9. Token Ordering in Decoding
+### 9. Is the arbitrary token ordering a bug?
 
 - Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions 
 - Think While You Generate: Discrete Diffusion with Planned Denoising
 
-### 10. Autoregression and Diffusion
+### 10. Autoregression and diffusion
 
 - Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models 
 - AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation 
 
-### 11. Diffusion for Reasoning and Planning
+### 11. Diffusion for reasoning and planning
 
 - Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning 
 - Diffusion of Thoughts: Chain-of-Thought in DLMs 
 
-### 12. Analysis of Masked Diffusion
+### 12. Analysis of masked diffusion
 
 - Generalized Interpolating Discrete Diffusion 
 - Why Masking Diffusion Works: Condition on the Jump Schedule for Improved Discrete Diffusion 

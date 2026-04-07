@@ -102,63 +102,63 @@ Each session you will be graded based on your participation, including:
 
 The topics below are listed in sequence rather than tied to fixed weeks.
 
-### 1. Continuous / Latent Chain-of-Thought
+### 1. Thinking in continuous space
 
 - Training Large Language Models to Reason in a Continuous Latent Space 
 - Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space
 
-### 2. Looped Transformers as a Reasoning Bias
+### 2. Recurrence as an inductive bias
 
 - Reasoning with Latent Thoughts: On the Power of Looped Transformers
 - Looped Transformers for Length Generalization
 
-### 3. Recurrent Depth and Latent Reasoning
+### 3. Building a recurrent-depth model
 
 - Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach
 - LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation
 
-### 4. Diffusion and Non-Autoregressive Reasoning
+### 4. Diffusion language models
 
 - Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning
 - d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning
 
-### 5. Linear Transformers as Memory Updates
+### 5. Linear transformers
 
 - Parallelizing Linear Transformers with the Delta Rule over Sequence Length
 - Gated Delta Networks: Improving Mamba2 with Delta Rule
 
-### 6. Mamba
+### 6. Mamba and state space models
 
 - Linear-Time Sequence Modeling with Selective State Spaces
 - Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
 - Improved Sequence Modeling using State Space Principles
 
-### 7. Associative Memory Perspectives on Transformers
+### 7. Transformers as associative memory
 
 - Understanding Transformer from the Perspective of Associative Memory
 - Linear Transformers Are Secretly Fast Weight Programmers
 
-### 8. Generalization and Compositional Reasoning
+### 8. Are we correctly generalizing?
 
 - Faith and Fate: Limits of Transformers on Compositionality
 - Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization
 
-### 9. Test-Time Training
+### 9. Test-time training
 
 - Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 - End-to-End Test-Time Training for Long Context
 
-### 10. Multi-Token Prediction
+### 10. Is next-token prediction enough?
 
 - Better & Faster Large Language Models via Multi-token Prediction
 - Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries
 
-### 11. Context Learning
+### 11. Learning in context
 
 - Recursive Language Models
 - CL-bench: A Benchmark for Context Learning
 
-### 12. Predictive World Models
+### 12. Joint embedding predictive architectures
 
 - V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
 - LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels
