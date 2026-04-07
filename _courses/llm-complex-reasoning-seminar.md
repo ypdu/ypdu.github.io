@@ -100,8 +100,6 @@ Each session you will be graded based on your participation, including:
 
 ## Suggested Readings
 
-The topics below are listed in sequence rather than tied to fixed weeks.
-
 ### 1. Thinking in continuous space
 
 - Training Large Language Models to Reason in a Continuous Latent Space 
