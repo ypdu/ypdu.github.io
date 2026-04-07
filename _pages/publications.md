@@ -11,7 +11,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Selected Publications
 
-(* indicates equal contribution)
+(♩ led the theoretical parts; ♫ co-led the empirical parts)
+
+- **_On the Ability of Transformers to Verify Plans._**
+  ArXiv preprint 2026.
+  [[pdf]](https://arxiv.org/pdf/2603.19954)
+  
+  Yash Sarrof♩, _Yupei Du_♫, Katharina Stein♫, Alexander Koller, Sylvie Thiébaux, and Michael Hahn.
+  
+  **TL;DR:** We study which types of planning problems can be verified by Transformer language models **in a length-generalizable way**. Our results identify a large class of classical planning domains for which transformers can provably learn to verify long plans.
+
 
 - **_Reason to Rote: Rethinking Memorization in Reasoning._**
   EMNLP 2025.
@@ -36,30 +45,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   Yuekun Yao, _Yupei Du_, Dawei Zhu, Michael Hahn\*, and Alexander Koller\*.
   
   **TL;DR:** We studied the implicit multi-hop reasoning capabilities of language models, and find that they require an exponentially increasing amount of training data to perform well as the depth grows, and curriculum learning can substantially mitigate this.
-
-- **_Disentangling the Roles of Representation and Selection in Data Pruning._**
-  ACL 2025.
-  [[pdf]](https://arxiv.org/pdf/2507.03648)
-  
-  _Yupei Du_, Yingjin Song, Hugh Mee Wong, Daniil Ignatev, Albert Gatt, and Dong Nguyen.
-  
-  **TL;DR:** We disentangled and systematically studied the influence of data representation and selection algorithm in data pruning.
-
-- **_On Support Samples of Next Word Prediction._**
-  ACL 2025.
-  [[pdf]](https://arxiv.org/pdf/2506.04047)
-  
-  Yuqian Li\*, <em>Yupei Du</em>\*, Yufang Liu, Feifei Feng, Mou Xiao Feng, and Yuanbin Wu.
-  
-  **TL;DR:** We studied the training instances that support the predictions of language models, and reveal that supporting is likely an **intrinsic** property of data.
-
-- **_Burn After Reading: Do Multimodal Large Language Models Truly Capture Order of Events in Image Sequences?_**
-  Findings of ACL 2025.
-  [[pdf]](https://arxiv.org/pdf/2506.10415)
-  
-  Yingjin Song, _Yupei Du_, Denis Paperno, and Albert Gatt.
-  
-  **TL;DR:** We propose a vision-language benchmark for multi-event temporal grounding and reasoning in image sequences.
 
 - **_FTFT: Efficient and Robust Fine-Tuning by Transferring Training Dynamics._**
   COLING 2025.
