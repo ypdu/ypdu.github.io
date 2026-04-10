@@ -79,7 +79,7 @@ Each session you will be graded based on your participation, including:
 
 | #  | Date       | Topic        | Reading | Leader |
 | -- | ---------- | ------------ | ------- | ------ |
-| 1  | 10-04-2026 | Introduction |         | Yupei  |
+| 1  | 10-04-2026 | Introduction | [Slides](https://docs.google.com/presentation/d/1UkCul2SEr5HIx8fKwRhMwadvTizXD-_SdNZSTkKkM_4/edit?usp=sharing) | Yupei  |
 | 2  | 17-04-2026 | TBD          |         |        |
 | 3  | 24-04-2026 | TBD          |         |        |
 | -  | 01-05-2026 | No class     |         |        |
