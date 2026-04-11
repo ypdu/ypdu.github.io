@@ -149,6 +149,7 @@ Each session you will be graded based on your participation, including:
 ### 10. Is next-token prediction enough?
 
 - Better & Faster Large Language Models via Multi-token Prediction
+- Efficient Joint Prediction of Multiple Future Tokens
 - Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries
 
 ### 11. Learning in context
