@@ -156,8 +156,9 @@ Each session you will be graded based on your participation, including:
 - Recursive Language Models
 - CL-bench: A Benchmark for Context Learning
 
-### 12. Joint embedding predictive architectures
+### 12. World models
 
+- Next-Latent Prediction Transformers Learn Compact World Models
 - V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
 - LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels
 
