@@ -86,9 +86,9 @@ Each session you will be graded based on your participation, including:
 | -  | 17-04-2026 | No class     |         |        |
 | 2  | 24-04-2026 | Thinking in continuous space |         | Anthony John Dsouza |
 | -  | 01-05-2026 | No class     |         |        |
-| 3  | 08-05-2026 | Building a recurrent-depth model |         | Juangui Xu |
-| 4  | 15-05-2026 | Linear attention |         | Dennis Jannik Schaly |
-| 5  | 22-05-2026 | State-space models |         | Müge Kuru |
+| 3  | 08-05-2026 | Linear attention |         | Dennis Jannik Schaly |
+| 4  | 15-05-2026 | State-space models |         | Müge Kuru |
+| 5  | 22-05-2026 | Building a recurrent-depth model |         | Juangui Xu |
 | 6  | 29-05-2026 | Are we correctly generalizing? |         | Shane John Paul Newton |
 | 7  | 05-06-2026 | Transformers as associative memory |         | He Zhu |
 | 8  | 12-06-2026 | Is next-token prediction enough? |         | Antonia Wächter |
