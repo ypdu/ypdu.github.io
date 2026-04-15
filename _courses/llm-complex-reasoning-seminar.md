@@ -83,20 +83,20 @@ Each session you will be graded based on your participation, including:
 | #  | Date       | Topic        | Reading | Leader |
 | -- | ---------- | ------------ | ------- | ------ |
 | 1  | 10-04-2026 | Introduction | [Slides](https://docs.google.com/presentation/d/1AQjxJVdFe9ygYCIO_niaZQ-97xkT52uGOoyez7I8t2k/edit?usp=sharing) | Yupei  |
-| 2  | 17-04-2026 | TBD          |         |        |
-| 3  | 24-04-2026 | TBD          |         |        |
+| -  | 17-04-2026 | No class     |         |        |
+| 2  | 24-04-2026 | Thinking in continuous space |         | Anthony John Dsouza |
 | -  | 01-05-2026 | No class     |         |        |
-| 4  | 08-05-2026 | TBD          |         |        |
-| 5  | 15-05-2026 | TBD          |         |        |
-| 6  | 22-05-2026 | TBD          |         |        |
-| 7  | 29-05-2026 | TBD          |         |        |
-| 8  | 05-06-2026 | TBD          |         |        |
-| 9  | 12-06-2026 | TBD          |         |        |
-| 10 | 19-06-2026 | TBD          |         |        |
-| 11 | 26-06-2026 | TBD          |         |        |
-| 12 | 03-07-2026 | TBD          |         |        |
-| 13 | 10-07-2026 | TBD          |         |        |
-| 14 | 17-07-2026 | TBD          |         |        |
+| 3  | 08-05-2026 | Building a recurrent-depth model |         | Juangui Xu |
+| 4  | 15-05-2026 | Linear attention |         | Dennis Jannik Schaly |
+| 5  | 22-05-2026 | State-space models |         | Müge Kuru |
+| 6  | 29-05-2026 | Are we correctly generalizing? |         | Shane John Paul Newton |
+| 7  | 05-06-2026 | Transformers as associative memory |         | He Zhu |
+| 8  | 12-06-2026 | Is next-token prediction enough? |         | Antonia Wächter |
+| 9  | 19-06-2026 | Learning in context |         | Nathanael Möcking |
+| 10 | 26-06-2026 | TBD          |         |        |
+| 11 | 03-07-2026 | TBD          |         |        |
+| 12 | 10-07-2026 | TBD          |         |        |
+| 13 | 17-07-2026 | TBD          |         |        |
 
 ## Suggested Readings
 

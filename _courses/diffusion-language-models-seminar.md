@@ -80,79 +80,71 @@ Each session you will be graded based on your participation, including:
 | #  | Date       | Topic        | Reading | Leader |
 | -- | ---------- | ------------ | ------- | ------ |
 | 1  | 10-04-2026 | Introduction | [Slides](https://docs.google.com/presentation/d/1UkCul2SEr5HIx8fKwRhMwadvTizXD-_SdNZSTkKkM_4/edit?usp=sharing) | Yupei  |
-| 2  | 17-04-2026 | TBD          |         |        |
-| 3  | 24-04-2026 | TBD          |         |        |
+| -  | 17-04-2026 | No class     |         |        |
+| 2  | 24-04-2026 | Discrete diffusion |         | Fanyi Meng |
 | -  | 01-05-2026 | No class     |         |        |
-| 4  | 08-05-2026 | TBD          |         |        |
-| 5  | 15-05-2026 | TBD          |         |        |
-| 6  | 22-05-2026 | TBD          |         |        |
-| 7  | 29-05-2026 | TBD          |         |        |
-| 8  | 05-06-2026 | TBD          |         |        |
-| 9  | 12-06-2026 | TBD          |         |        |
-| 10 | 19-06-2026 | TBD          |         |        |
-| 11 | 26-06-2026 | TBD          |         |        |
-| 12 | 03-07-2026 | TBD          |         |        |
-| 13 | 10-07-2026 | TBD          |         |        |
-| 14 | 17-07-2026 | TBD          |         |        |
+| 3  | 08-05-2026 | Masked diffusion language models |         | Jia Liu |
+| 4  | 15-05-2026 | Rethinking masked diffusion |         | Anthony John Dsouza |
+| -  | 22-05-2026 | Guest lecture: Diffusion LLMs can think EoS-by-EoS |         | Sarah Breckner |
+| 5  | 29-05-2026 | More flexible training objectives |         | Pranav Prakash Kushare |
+| 6  | 05-06-2026 | Scaling diffusion language models |         | Shane John Paul Newton |
+| 7  | 12-06-2026 | Diffusion for reasoning and planning |         | Juangui Xu |
+| 8  | 19-06-2026 | TBD          |         |        |
+| 9  | 26-06-2026 | TBD          |         |        |
+| 10 | 03-07-2026 | TBD          |         |        |
+| 11 | 10-07-2026 | TBD          |         |        |
+| 12 | 17-07-2026 | TBD          |         |        |
 
 ## Suggested Readings
 
-### 1. Why autoregressive language models are not enough
+The topics below are listed in sequence rather than tied to fixed weeks.
 
-- The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"
-- The Curious Case of Neural Text Degeneration 
-
-### 2. Continuous diffusion foundations
+### 1. Continuous diffusion foundations
 
 - Denoising Diffusion Probabilistic Models 
 - Score-Based Generative Modeling through SDEs 
 
-### 3. Discrete diffusion 
+### 2. Discrete diffusion 
 
 - Structured Denoising Diffusion Models in Discrete State-Spaces 
 - A Continuous Time Framework for Discrete Denoising Models 
 
-### 4. Explorative diffusion language models
-
-- Diffusion-LM Improves Controllable Text Generation 
-- SSD-LM: Semi-autoregressive Simplex-based Diffusion LM 
-
-### 5. Masked diffusion language models
+### 3. Masked diffusion language models
 
 - Simple and Effective Masked Diffusion Language Models 
 - Scaling up Masked Diffusion Models on Text 
 
-### 6. More flexible training objectives
+### 4. More flexible training objectives
 
 - Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution 
 - A Reparameterized Discrete Diffusion Model for Text Generation 
 
-### 7. Rethinking masked diffusion
+### 5. Rethinking masked diffusion
 
 - Masked Diffusion Models are Secretly Time-Agnostic 
 - Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data 
 
-### 8. Scaling diffusion language models
+### 6. Scaling diffusion language models
 
 - Diffusion Language Models are Super Data Learners 
 - Scaling Behavior of Discrete Diffusion Language Models 
 
-### 9. Is the arbitrary token ordering a bug?
+### 7. Is the arbitrary token ordering a bug?
 
 - Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions 
 - Think While You Generate: Discrete Diffusion with Planned Denoising
 
-### 10. Autoregression and diffusion
+### 8. Autoregression and diffusion
 
 - Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models 
 - AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation 
 
-### 11. Diffusion for reasoning and planning
+### 9. Diffusion for reasoning and planning
 
 - Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning 
 - Diffusion of Thoughts: Chain-of-Thought in DLMs 
 
-### 12. Analysis of masked diffusion
+### 10. Analysis of masked diffusion
 
 - Generalized Interpolating Discrete Diffusion 
 - Why Masking Diffusion Works: Condition on the Jump Schedule for Improved Discrete Diffusion 
