@@ -89,7 +89,7 @@ Each session you will be graded based on your participation, including:
 | 5  | 29-05-2026 | More flexible training objectives |         | Pranav Prakash Kushare |
 | 6  | 05-06-2026 | Scaling diffusion language models |         | Shane John Paul Newton |
 | 7  | 12-06-2026 | Diffusion for reasoning and planning |         | Juangui Xu |
-| 8  | 19-06-2026 | TBD          |         |        |
+| 8  | 19-06-2026 | Analysis of masked diffusion |         | Tianchi Gu |
 | 9  | 26-06-2026 | TBD          |         |        |
 | 10 | 03-07-2026 | TBD          |         |        |
 | 11 | 10-07-2026 | TBD          |         |        |
