@@ -34,7 +34,7 @@ understanding the main ideas and being able to discuss them critically is essent
 
 ## Information
 
-- **Instructor:** [Yupei Du](https://yupei.nl/) (yudo [at] lst [dot] uni-saarland [dot] de)
+- **Instructor:** [Yupei Du](https://ypdu.github.io/) (yudo [at] lst [dot] uni-saarland [dot] de)
 - **Time/Location:** Fri 12:15 - 13:45; Gebäude C7 3 - Seminarraum 1.14
 
 ## Format/Requirements
@@ -88,15 +88,15 @@ Each session you will be graded based on your participation, including:
 | -  | 01-05-2026 | No class     |         |        |
 | 3  | 08-05-2026 | Linear attention |         | Dennis Jannik Schaly |
 | 4  | 15-05-2026 | State-space models |         | Müge Kuru |
-| 5  | 22-05-2026 | Building a recurrent-depth model |         | Juangui Xu |
-| 6  | 29-05-2026 | Are we correctly generalizing? |         | Shane John Paul Newton |
-| 7  | 05-06-2026 | Transformers as associative memory |         | He Zhu |
-| 8  | 12-06-2026 | Is next-token prediction enough? |         | Antonia Wächter |
-| 9  | 19-06-2026 | Learning in context |         | Nathanael Möcking |
-| 10 | 26-06-2026 | TBD          |         |        |
-| 11 | 03-07-2026 | TBD          |         |        |
-| 12 | 10-07-2026 | TBD          |         |        |
-| 13 | 17-07-2026 | TBD          |         |        |
+| 5  | 22-05-2026 | Recurrence as an inductive bias |         | Yujie Luo |
+| 6  | 29-05-2026 | Building a recurrent-depth model |         | Juangui Xu |
+| 7  | 05-06-2026 | Are we correctly generalizing? |         | Shane John Paul Newton |
+| 8  | 12-06-2026 | Test-time training |         | Fedor Sizov |
+| 9  | 19-06-2026 | Transformers as associative memory |         | He Zhu |
+| 10 | 26-06-2026 | Is next-token prediction enough? |         | Antonia Wächter |
+| 11 | 03-07-2026 | Learning in context |         | Nathanael Möcking |
+| 12 | 10-07-2026 | TBD     |         |        |
+| 13 | 17-07-2026 | World models |         | Barbare Tepnadze |
 
 ## Suggested Readings
 

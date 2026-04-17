@@ -31,7 +31,7 @@ understanding the main ideas and being able to discuss them critically is essent
 
 ## Information
 
-- **Instructor:** [Yupei Du](https://yupei.nl/) (yudo [at] lst [dot] uni-saarland [dot] de)
+- **Instructor:** [Yupei Du](https://ypdu.github.io/) (yudo [at] lst [dot] uni-saarland [dot] de)
 - **Time/Location:** Fri 08:30 - 10:00; Gebäude C7 3 - Seminarraum 1.14
 
 ## Format/Requirements
