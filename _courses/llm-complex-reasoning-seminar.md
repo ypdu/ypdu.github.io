@@ -95,8 +95,8 @@ Each session you will be graded based on your participation, including:
 | 9  | 19-06-2026 | Transformers as associative memory |         | He Zhu |
 | 10 | 26-06-2026 | Is next-token prediction enough? |         | Antonia Wächter |
 | 11 | 03-07-2026 | Learning in context |         | Nathanael Möcking |
-| 12 | 10-07-2026 | TBD     |         |        |
-| 13 | 17-07-2026 | World models |         | Barbare Tepnadze |
+| - | 10-07-2026 | TBD     |         |        |
+| 12 | 17-07-2026 | World models |         | Barbare Tepnadze |
 
 ## Suggested Readings
 

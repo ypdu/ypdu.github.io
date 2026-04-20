@@ -81,7 +81,7 @@ Each session you will be graded based on your participation, including:
 | -- | ---------- | ------------ | ------- | ------ |
 | 1  | 10-04-2026 | Introduction | [Slides](https://docs.google.com/presentation/d/1UkCul2SEr5HIx8fKwRhMwadvTizXD-_SdNZSTkKkM_4/edit?usp=sharing) | Yupei  |
 | -  | 17-04-2026 | No class     |         |        |
-| 2  | 24-04-2026 | Discrete diffusion |         | Fanyi Meng |
+| 2  | 24-04-2026 | Discrete diffusion | Structured Denoising Diffusion Models in Discrete State-Spaces | Fanyi Meng |
 | -  | 01-05-2026 | No class     |         |        |
 | 3  | 08-05-2026 | Masked diffusion language models |         | Jia Liu |
 | 4  | 15-05-2026 | Rethinking masked diffusion |         | Anthony John Dsouza |
