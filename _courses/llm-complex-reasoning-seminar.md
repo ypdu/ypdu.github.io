@@ -84,7 +84,7 @@ Each session you will be graded based on your participation, including:
 | -- | ---------- | ------------ | ------- | ------ |
 | 1  | 10-04-2026 | Introduction | [Slides](https://docs.google.com/presentation/d/1AQjxJVdFe9ygYCIO_niaZQ-97xkT52uGOoyez7I8t2k/edit?usp=sharing) | Yupei  |
 | -  | 17-04-2026 | No class     |         |        |
-| 2  | 24-04-2026 | Thinking in continuous space |         | Anthony John Dsouza |
+| 2  | 24-04-2026 | Thinking in continuous space | [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769) | Anthony John Dsouza |
 | -  | 01-05-2026 | No class     |         |        |
 | 3  | 08-05-2026 | Linear attention |         | Dennis Jannik Schaly |
 | 4  | 15-05-2026 | State-space models |         | Müge Kuru |
