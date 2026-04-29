@@ -81,7 +81,7 @@ title: "Yupei Du"
 
 I am a postdoctoral researcher at Saarland University, 
 advised by [Prof. Alexander Koller](https://www.coli.uni-saarland.de/~koller/).
-I am associated with the research training group 
+I am also associated with the research training group 
 [“Neuroexplicit Models of Language, Vision, and Action”](https://www.neuroexplicit.org/). 
 I work on LLM reasoning, and am broadly interested in 
 how language models learn to reason, their limitations, 
@@ -94,7 +94,6 @@ During my PhD, I also spent time at LMU Munich and Amazon.
 Before that, I studied computer science and cognitive science 
 at East China Normal University, 
 where I was advised by [Dr. Yuanbin Wu](https://ybwu.org/). 
-
 
 
 ## Experience
