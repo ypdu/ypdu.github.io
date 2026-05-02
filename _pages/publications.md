@@ -14,13 +14,21 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 (♩ led the theoretical parts, ♫ co-led the empirical parts; * indicates equal contribution)
 
 - **_On the Ability of Transformers to Verify Plans._**
-  ArXiv preprint 2026.
+  ICML 2026.
   [[pdf]](https://arxiv.org/pdf/2603.19954)
   
   Yash Sarrof♩, _Yupei Du_♫, Katharina Stein♫, Alexander Koller, Sylvie Thiébaux, and Michael Hahn.
   
   **TL;DR:** We study which types of planning problems can be verified by Transformer language models **in a length-generalizable way**. Our results identify a large class of classical planning domains for which transformers can provably learn to verify long plans.
 
+
+- **_Grokking ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior._**
+  ICML 2026.
+  [[pdf]](https://arxiv.org/pdf/2505.20076)
+  
+  Florian Eichin, _Yupei Du_, Philipp Mondorf, Barbara Plank, Michael A. Hedderich.
+  
+  **TL;DR:** We introduce ExPLAIND—an interpretability framework for jointly attributing model components, data, and training dynamics and apply it to investigate Grokking.
 
 - **_Reason to Rote: Rethinking Memorization in Reasoning._**
   EMNLP 2025.
@@ -29,14 +37,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   _Yupei Du_, Philipp Mondorf, Silvia Casola, Yuekun Yao, Robert Litschko, and Barbara Plank.
   
   **TL;DR:** We mechanistically study benign memorization in language models in reasoning tasks, and find that memorization does not replace but rather **is built on generalization**.
-
-- **_Grokking ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior._**
-  arXiv preprint 2025.
-  [[pdf]](https://arxiv.org/pdf/2505.20076)
-  
-  Florian Eichin, _Yupei Du_, Philipp Mondorf, Barbara Plank, Michael A. Hedderich.
-  
-  **TL;DR:** We introduce ExPLAIND—an interpretability framework for jointly attributing model components, data, and training dynamics and apply it to investigate Grokking.
 
 - **_Language models can learn implicit multi-hop reasoning, but only if they have lots of training data._**
   EMNLP 2025.
