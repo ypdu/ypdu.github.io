@@ -87,7 +87,7 @@ Each session you will be graded based on your participation, including:
 | 2  | 24-04-2026 | Thinking in continuous space | [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769) | Anthony John Dsouza |
 | -  | 01-05-2026 | No class     |         |        |
 | 3  | 08-05-2026 | Linear attention | [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](https://arxiv.org/abs/2406.06484)<br>[Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2412.06464) | Dennis Jannik Schaly |
-| 4  | 15-05-2026 | State-space models |         | Müge Kuru |
+| 4  | 15-05-2026 | State-space models | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | Müge Kuru |
 | 5  | 22-05-2026 | Recurrence as an inductive bias |         | Yujie Luo |
 | 6  | 29-05-2026 | Building a recurrent-depth model |         | Juangui Xu |
 | 7  | 05-06-2026 | Are we correctly generalizing? |         | Shane John Paul Newton |
