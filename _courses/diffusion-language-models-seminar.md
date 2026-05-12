@@ -84,8 +84,8 @@ Each session you will be graded based on your participation, including:
 | 2  | 24-04-2026 | Discrete diffusion | [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) | Fanyi Meng |
 | -  | 01-05-2026 | No class     |         |        |
 | 3  | 08-05-2026 | Masked diffusion language models | [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) | Yupei |
-| 4  | 15-05-2026 | Rethinking masked diffusion |         | Anthony John Dsouza |
-| -  | 22-05-2026 | Guest lecture: Diffusion LLMs can think EoS-by-EoS |         | Sarah Breckner |
+| -  | 15-05-2026 | No class |         |        |
+| -  | 22-05-2026 | Guest lecture: Diffusion LLMs can think EoS-by-EoS | [Diffusion LLMs can think EoS-by-EoS](https://arxiv.org/abs/2603.05197) | Sarah Breckner |
 | 5  | 29-05-2026 | More flexible training objectives |         | Pranav Prakash Kushare |
 | 6  | 05-06-2026 | Scaling diffusion language models |         | Shane John Paul Newton |
 | 7  | 12-06-2026 | Diffusion for reasoning and planning |         | Juangui Xu |
