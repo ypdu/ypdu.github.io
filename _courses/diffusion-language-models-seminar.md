@@ -83,7 +83,7 @@ Each session you will be graded based on your participation, including:
 | -  | 17-04-2026 | No class     |         |        |
 | 2  | 24-04-2026 | Discrete diffusion | [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) | Fanyi Meng |
 | -  | 01-05-2026 | No class     |         |        |
-| 3  | 08-05-2026 | Masked diffusion language models | [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) | Jia Liu |
+| 3  | 08-05-2026 | Masked diffusion language models | [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) | Yupei |
 | 4  | 15-05-2026 | Rethinking masked diffusion |         | Anthony John Dsouza |
 | -  | 22-05-2026 | Guest lecture: Diffusion LLMs can think EoS-by-EoS |         | Sarah Breckner |
 | 5  | 29-05-2026 | More flexible training objectives |         | Pranav Prakash Kushare |
@@ -91,7 +91,7 @@ Each session you will be graded based on your participation, including:
 | 7  | 12-06-2026 | Diffusion for reasoning and planning |         | Juangui Xu |
 | 8  | 19-06-2026 | Analysis of masked diffusion | [Revealing the Attention Floating Mechanism in Masked Diffusion Models](https://arxiv.org/abs/2601.07894) | Tianchi Gu |
 | 9  | 26-06-2026 | Is the arbitrary token ordering a bug? |         | Zichao Wei |
-| 10 | 03-07-2026 | TBD          |         |        |
+| 10 | 03-07-2026 | Continuous diffusion | [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) | Jia Liu |
 | 11 | 10-07-2026 | TBD          |         |        |
 | 12 | 17-07-2026 | TBD          |         |        |
 
