@@ -86,7 +86,7 @@ Each session you will be graded based on your participation, including:
 | 3  | 08-05-2026 | Masked diffusion language models | [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) | Yupei |
 | -  | 15-05-2026 | No class |         |        |
 | -  | 22-05-2026 | Guest lecture: Diffusion LLMs can think EoS-by-EoS | [Diffusion LLMs can think EoS-by-EoS](https://arxiv.org/abs/2603.05197) | Sarah Breckner |
-| 5  | 29-05-2026 | More flexible training objectives |         | Pranav Prakash Kushare |
+| 5  | 29-05-2026 | More flexible training objectives | [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217) | Pranav Prakash Kushare |
 | 6  | 05-06-2026 | Scaling diffusion language models |         | Shane John Paul Newton |
 | 7  | 12-06-2026 | Diffusion for reasoning and planning |         | Juangui Xu |
 | 8  | 19-06-2026 | Analysis of masked diffusion | [Revealing the Attention Floating Mechanism in Masked Diffusion Models](https://arxiv.org/abs/2601.07894) | Tianchi Gu |
