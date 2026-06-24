@@ -90,10 +90,10 @@ Each session you will be graded based on your participation, including:
 | 4  | 15-05-2026 | State-space models | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | Müge Kuru |
 | 5  | 22-05-2026 | Recurrence as an inductive bias | [Reasoning with Latent Thoughts: On the Power of Looped Transformers](https://arxiv.org/abs/2502.17416) | Yujie Luo |
 | -  | 29-05-2026 | No class     |         |        |
-| 7  | 05-06-2026 | Are we correctly generalizing? |         | Shane John Paul Newton |
+| 7  | 05-06-2026 | Are we correctly generalizing? | [Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization](https://arxiv.org/abs/2405.15071) | Shane John Paul Newton |
 | 8  | 12-06-2026 | Test-time training | [End-to-End Test-Time Training for Long Context](https://arxiv.org/abs/2512.23675) | Fedor Sizov |
-| 9  | 19-06-2026 | Transformers as associative memory |         | He Zhu |
-| 10 | 26-06-2026 | Is next-token prediction enough? |         | Antonia Wächter |
+| 9  | 19-06-2026 | Transformers as associative memory | [Understanding Transformer from the Perspective of Associative Memory](https://arxiv.org/abs/2505.19488) | He Zhu |
+| -  | 26-06-2026 | No class |         |        |
 | 11 | 03-07-2026 | Learning in context |         | Nathanael Möcking |
 | - | 10-07-2026 | TBD     |         |        |
 | 12 | 17-07-2026 | World models |         | Barbare Tepnadze |

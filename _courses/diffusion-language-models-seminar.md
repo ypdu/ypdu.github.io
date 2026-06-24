@@ -87,8 +87,8 @@ Each session you will be graded based on your participation, including:
 | -  | 15-05-2026 | No class |         |        |
 | -  | 22-05-2026 | Guest lecture: Diffusion LLMs can think EoS-by-EoS | [Diffusion LLMs can think EoS-by-EoS](https://arxiv.org/abs/2603.05197) | Sarah Breckner |
 | 5  | 29-05-2026 | More flexible training objectives | [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217) | Pranav Prakash Kushare |
-| 6  | 05-06-2026 | Scaling diffusion language models |         | Shane John Paul Newton |
-| 7  | 12-06-2026 | Diffusion for reasoning and planning |         | Juangui Xu |
+| 6  | 05-06-2026 | Scaling diffusion language models | [Diffusion Language Models are Super Data Learners](https://arxiv.org/abs/2511.03276) | Shane John Paul Newton |
+| -  | 12-06-2026 | No class |         |        |
 | 8  | 19-06-2026 | Analysis of masked diffusion | [Revealing the Attention Floating Mechanism in Masked Diffusion Models](https://arxiv.org/abs/2601.07894) | Tianchi Gu |
 | 9  | 26-06-2026 | Is the arbitrary token ordering a bug? |         | Zichao Wei |
 | 10 | 03-07-2026 | Continuous diffusion | [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) | Jia Liu |
