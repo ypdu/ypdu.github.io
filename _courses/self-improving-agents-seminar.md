@@ -1,6 +1,7 @@
 ---
 title: "Towards Self-Improving Agents (UdS, Winter 26/27)"
 collection: courses
+published: false
 type: "Seminar"
 permalink: /courses/self-improving-agents-seminar-winter-26/
 semester: "Winter 26/27"
@@ -28,7 +29,7 @@ The readings can be technical. You are not expected to understand every detail o
 
 - **Instructor:** [Yupei Du](https://ypdu.github.io/) (yudo [at] lst [dot] uni-saarland [dot] de)
 - **Time:** Tuesdays, 16:15–17:45
-- **Location:** To be announced
+- **Location:** Gebäude C7 3 - Seminarraum 1.14
 - **Language:** English
 - **First meeting:** 27 October 2026
 - **Introduction slides:** [Course overview and background](https://docs.google.com/presentation/d/1NbojB0-V0Ef_5V2rAyjQIw5ZsWOLd6Shs9XudmM4Uis/edit)
@@ -54,11 +55,11 @@ Make the presentation accessible to students who have not worked on the topic. Y
 
 When two students lead a session, they may present one paper each or divide the work between a main presentation and a comparison, worked example, or critical discussion. Regularly pause for questions and invite the audience to challenge the paper's assumptions.
 
-The suggested readings are not exhaustive. You are welcome to propose another relevant paper; please email your suggestion at least **one week before the session**. Send an outline and the key figures at least **48 hours before your presentation**, and send the final slides and other materials afterwards for archiving.
+The suggested readings are not exhaustive. You are welcome to propose another relevant paper; please email your suggestion at least **one week before the session**. Send the final slides and other materials afterwards for archiving.
 
 ### For audience
 
-Read the main paper before class and prepare one central claim and one question about its evidence. Brief notes of around 150–250 words in total are sufficient. All students are expected to ask questions and actively participate in the discussion.
+Read the main paper before class. All students are expected to ask questions and actively participate in the discussion.
 
 Participation will be assessed using the following scale:
 
@@ -187,7 +188,7 @@ These readings provide background and are not separate student presentation assi
 
 ## Term paper (for the 7 CP version)
 
-Students taking the 7-credit version will write either a survey on a topic relevant to the course or a small, well-executed independent project. Credit options and the assessment scheme below will be confirmed at the introductory meeting, subject to the applicable module rules.
+Students taking the 7-credit version will write either a survey on a topic relevant to the course or a small, well-executed independent project.
 
 For a **survey**, identify a focused research question and compare at least three relevant papers. Explain their methods, assumptions, and evaluation settings, and assess where their findings agree or differ. Organize the discussion around the research question rather than presenting a sequence of unrelated summaries.
 
@@ -199,7 +200,7 @@ Up to **10 pages**, excluding references and appendices, using a NeurIPS paper t
 
 ### Submission deadline
 
-**To be announced.** Submit by email with the subject line: "Self-improving agents seminar term paper submission: [Your Name]".
+**31 March 2027.** Submit by email with the subject line: "Self-improving agents seminar term paper submission: [Your Name]".
 
 ### LLM use policy
 
@@ -207,7 +208,7 @@ You may use LLMs and other AI tools for learning and preparing your work, but **
 
 ## Evaluation
 
-*The following scheme follows the previous seminar and is provisional until confirmed in the introductory meeting. Study programs may differ in which credit versions are available; check with your study program coordinator if in doubt.*
+*Study programs may differ in which credit versions are available; check with your study program coordinator if in doubt.*
 
 | Component | 4 credits | 7 credits |
 | -- | -- | -- |
