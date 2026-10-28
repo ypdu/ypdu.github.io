@@ -1,7 +1,7 @@
 ---
 title: "Towards Self-Improving Agents (UdS, Winter 26/27)"
 collection: courses
-published: true
+published: false
 type: "Seminar"
 permalink: /courses/self-improving-agents-seminar-winter-26/
 semester: "Winter 26/27"
