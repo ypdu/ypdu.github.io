@@ -1,5 +1,5 @@
 ---
-title: "Building Language Models from Scratch (UdS)"
+title: "Building Language Models from Scratch (UdS Winter 2026/27)"
 collection: courses
 published: true
 type: "Software Project"
@@ -23,7 +23,7 @@ develop that understanding by building a language model from scratch.
 You will implement a complete pipeline, including core model components such as
 multi-head attention, training-data preparation and loading, and model training
 and evaluation. You will investigate how data, architecture, optimizer,
-and hyper-parameters choices affect
+and hyperparameter choices affect
 model quality, training cost, and inference efficiency, and use your
 findings to guide further improvements.
 You will then choose a task or application
@@ -68,7 +68,7 @@ A reference implementation is available in
 [Raschka's GPT-to-Llama-2 walkthrough](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch05/07_gpt_to_llama/converting-gpt-to-llama2.ipynb).
 All experimental language models must have
 **fewer than 100 million total parameters excluding embeddings**,
-with shared parameters count once.
+with shared parameters counted once.
 
 You will develop and maintain a clear **PyTorch** implementation
 of the model components and training loop.
@@ -95,9 +95,8 @@ Evaluation might seem straightforward,
 but it is a very important part of modern machine learning research,
 and can be surprisingly tricky.
 
-You should develop a comprehensive evaluation suite,
-including different datasets and tasks,
-that measures model quality, training cost, and inference efficiency.
+You should develop an evaluation suite appropriate for your model,
+which measures model quality, training cost, and inference efficiency.
 It is also often useful to just look at the model's outputs and analyze its errors.
 Some useful metrics are:
 
@@ -112,7 +111,7 @@ You should also find the best hyper-parameters, where
 a useful reference is the
 [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook).
 Make informed choices.
-Record the reasoning and supporting results behind your design choices,
+Record the reasoning and supporting results behind your design choices.
 
 
 ### 3. Adapt your model to a task through SFT (~3 weeks)
@@ -120,7 +119,7 @@ Record the reasoning and supporting results behind your design choices,
 Choose a task or application and use **supervised fine-tuning (SFT) on your own
 pretrained model** to improve its performance on that task.
 For example, you might build a nano chatbot, a summarizer,
-or small code generator.
+or a small code generator.
 
 Similar to pretraining, you will need to choose a suitable dataset
 to train and evaluate your model.
@@ -156,6 +155,9 @@ Project work: 60%
 Presentation: 10%
 Final report: 30%
 ```
+
+Besides the final performance,
+you will also be evaluated on the quality of your implementation, experiments, and analysis.
 
 ## AI Policy
 
