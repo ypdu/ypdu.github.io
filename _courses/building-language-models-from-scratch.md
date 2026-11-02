@@ -42,7 +42,6 @@ and debugging a training loop. We assume basic knowledge of neural networks,
 gradient-based optimization, and Transformers.
 
 - **Instructor:** [Yupei Du](https://ypdu.github.io/) (yudo [at] lst [dot] uni-saarland [dot] de)
-- **Course interest:** [Google Form](https://forms.gle/YQFJE9nMPfpY8UZt5)
 
 - We will not have classes or lectures before the group presentations.
 Instead, each group will have a **30-min weekly meeting with the instructor** to discuss progress.
