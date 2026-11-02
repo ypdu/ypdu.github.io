@@ -1,5 +1,5 @@
 ---
-title: "Building Language Models from Scratch (UdS Winter 2026/27)"
+title: "Building Language Models from Scratch (UdS Winter 26/27)"
 collection: courses
 published: true
 type: "Software Project"
