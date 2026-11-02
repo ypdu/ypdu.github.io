@@ -1,7 +1,7 @@
 ---
 title: "Towards Self-Improving Agents (UdS, Winter 26/27)"
 collection: courses
-published: false
+published: true
 type: "Seminar"
 permalink: /courses/self-improving-agents-seminar-winter-26/
 semester: "Winter 26/27"
@@ -13,15 +13,9 @@ location: "Saarbrücken, Germany"
 
 ## Course Description
 
-How can language-model agents improve through their own experience?
-We begin with **reasoning and inference-time computation**: how reinforcement learning
-and additional inference compute can improve reasoning.
-We then study **learning from agent experience**, including how past rollouts and feedback
-become reusable memories, skills, and prompts.
-Next, **task generation and curriculum learning** asks how models can create useful
-training tasks, while **self-modifying agents** examines how agents can improve their own code.
-Finally, **evaluating self-improvement** addresses transfer, forgetting,
-and how to measure whether these changes improve future performance.
+Can LLMs improve themselves? This seminar investigates how modern AI agents can learn to solve more tasks by spending more computation on reasoning, interacting with the world, learning from experience, and improving their own training procedures and tools.
+
+We begin by examining how additional test-time computation can help models solve more problems, and what happens when models generate their own reward signals. We then study how agents can use experience more effectively by turning it into reusable memories and skills. Next, we explore whether LLMs can improve their own training by generating training tasks and curricula, and improve the systems they operate within by modifying their tools and agent harnesses. Finally, we examine how to evaluate self-improvement—and why establishing that an agent has genuinely improved is challenging—before turning to the risks that arise when self-improvement goes wrong.
 
 ## Prerequisites
 
@@ -47,7 +41,7 @@ followed by a group discussion of another 30-45 minutes.
 Discussion is not limited to after presentations only,
 and you should regularly pause to ask if there are any questions or comments,
 and encourage the audience to share their thoughts.
-Some suggested readings are offered for each topic;
+Some related research is listed for each topic;
 however, **these are by no means exhaustive, and
 you are very welcome to propose readings that you are interested in to present**,
 as long as they are related to the topic of the seminar.
@@ -78,28 +72,80 @@ Each session you will be graded based on your participation, including:
 
 ## Syllabus
 
+<div class="seminar-schedule-scroll" markdown="1">
+
 | # | Date | Topic | Reading | Leader |
 | -- | -- | -- | -- | -- |
 | 1 | 27-10-2026 | Introduction: reasoning, agents, and improvement | [Slides](https://docs.google.com/presentation/d/1NbojB0-V0Ef_5V2rAyjQIw5ZsWOLd6Shs9XudmM4Uis/edit) | Yupei |
 | – | 03-11-2026 | No class | | |
 | | | **Reasoning and inference-time computation** | | |
-| 2 | 10-11-2026 | Repeated sampling and answer selection | [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787) | TBD |
-| 3 | 17-11-2026 | What does RL actually learn? | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837) | TBD |
+| 2 | 10-11-2026 | Repeated sampling and answer selection | [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787) | Anthony John Dsouza |
+| 3 | 17-11-2026 | What does RL actually learn? | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837) | Juangui Xu |
+| 4 | 24-11-2026 | Where does the reward come from? | [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444) | Bakytzhan Alibekov |
 | | | **Learning from agent experience** | | |
-| 4 | 24-11-2026 | Turning self-judged experience into improvement | [S³Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](https://arxiv.org/abs/2608.31100) | TBD |
-| 5 | 01-12-2026 | Learning to create and reuse skills | [Reinforcement Learning for Self-Improving Agent with Skill Library](https://arxiv.org/abs/2512.17102) | TBD |
-| 6 | 08-12-2026 | Optimizing prompts from experience | [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiv.org/abs/2507.19457) | TBD |
+| 5 | 01-12-2026 | Learning to create and reuse skills | [Reinforcement Learning for Self-Improving Agent with Skill Library](https://arxiv.org/abs/2512.17102) | Fahad Khalid |
+| 6 | 08-12-2026 | Optimizing prompts from experience | [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiv.org/abs/2507.19457) | He Zhu |
 | | | **Task generation and curriculum learning** | | |
-| 7 | 15-12-2026 | Generating verifiable training tasks | [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) | TBD |
+| 7 | 15-12-2026 | Generating verifiable training tasks | [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) | Qilan Yu |
 | – | 22-12-2026 | No class — Christmas break | | |
 | – | 29-12-2026 | No class — Christmas break | | |
-| 8 | 05-01-2027 | Learning to generate useful curricula | [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/abs/2601.18778) | TBD |
+| 8 | 05-01-2027 | Learning to generate useful curricula | [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/abs/2601.18778) | Paulina Hussein |
 | | | **Self-modifying agents** | | |
-| 9 | 12-01-2027 | Modifying the agent's implementation | [Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954) | TBD |
-| 10 | 19-01-2027 | Improving the research agent's own code | [Recursive self-improvement of AI research agents](https://arxiv.org/abs/2609.26457) | TBD |
+| 9 | 12-01-2027 | Modifying the agent's implementation | [Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954) | Pedro |
+| 10 | 19-01-2027 | Improving the research agent's own code | [Recursive self-improvement of AI research agents](https://arxiv.org/abs/2609.26457) | Shane John Paul Newton |
 | | | **Evaluating self-improvement** | | |
-| 11 | 26-01-2027 | Evaluating agent-built execution frameworks | [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://arxiv.org/abs/2609.01437) | TBD |
-| 12 | 02-02-2027 | Transfer, interference, and forgetting | [PATH-Bench: Path-Dependent Evaluation of Lifelong Agents](https://arxiv.org/abs/2608.01149) | TBD |
+| 11 | 26-01-2027 | Do self-modifications generalize? | [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://arxiv.org/abs/2609.01437) | Peter Harmer |
+| | | **Risks of self-improvement** | | |
+| 12 | 02-02-2027 | When self-improvement goes wrong | [Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents](https://arxiv.org/abs/2509.26354) | Luis Cihlar |
+{: .seminar-schedule}
+
+</div>
+
+## Related Research
+
+### 2. Repeated sampling and answer selection
+
+- [Shrinking the Generation-Verification Gap with Weak Verifiers](https://arxiv.org/abs/2506.18203)
+
+### 3. What does RL actually learn?
+
+- [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947)
+
+### 4. Where does the reward come from?
+
+- [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
+
+### 5. Learning to create and reuse skills
+
+- [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670)
+
+### 6. Optimizing prompts from experience
+
+- [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618)
+
+### 7. Generating verifiable training tasks
+
+- [Toward Training Superintelligent Software Agents through Self-Play SWE-RL](https://arxiv.org/abs/2512.18552)
+
+### 8. Learning to generate useful curricula
+
+- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
+
+### 9. Modifying the agent's implementation
+
+- [Huxley-Gödel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine](https://arxiv.org/abs/2510.21614)
+
+### 10. Improving the research agent's own code
+
+- [Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052)
+
+### 11. Do self-modifications generalize?
+
+- [A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility](https://arxiv.org/abs/2504.07086)
+
+### 12. When self-improvement goes wrong
+
+- [Reflections on Trusting Trust, Revisited: Contaminating Self-Modifying AI Coding Agents with Poisoned Benchmarks](https://arxiv.org/abs/2609.17817)
 
 ## Term paper (for the 7 CP version)
 

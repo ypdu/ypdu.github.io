@@ -36,3 +36,37 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+/* Course schedule: keep dates together and allow horizontal scrolling on phones. */
+.seminar-schedule-scroll {
+  overflow-x: auto;
+  margin-bottom: 1.5em;
+}
+
+.seminar-schedule {
+  min-width: 720px;
+  margin-bottom: 0;
+
+  th, td {
+    vertical-align: top;
+    padding: 0.65em;
+  }
+
+  th:first-child, td:first-child {
+    text-align: center;
+    width: 2em;
+  }
+
+  th:nth-child(2), td:nth-child(2) {
+    white-space: nowrap;
+  }
+
+  th:nth-child(3) { width: 25%; }
+  th:nth-child(4) { width: 42%; }
+  th:last-child { min-width: 7em; }
+
+  tbody tr:has(td:nth-child(3) > strong) {
+    background: $lighter-gray;
+    border-top: 2px solid $light-gray;
+  }
+}
